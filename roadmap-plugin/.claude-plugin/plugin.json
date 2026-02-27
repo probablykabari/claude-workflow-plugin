@@ -1,0 +1,8 @@
+{
+  "name": "roadmap",
+  "version": "0.1.0",
+  "description": "Manage development roadmaps using structured markdown files in roadmap/*.md",
+  "author": {
+    "name": "Claude Workflow Plugin"
+  },
+}
